@@ -1,5 +1,5 @@
 {
-    "name": "cotars/game-cards-proto",
+    "name": "cotars/game-proto-card",
     "type": "library",
     "license": "MIT",
     "require": {
