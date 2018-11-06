@@ -1,0 +1,16 @@
+{
+    "name": "cotars/game-cards-proto",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "google/protobuf": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cotars\\GameProtoCard\\": "src/Cotars/GameProtoCard"
+        },
+        "files": [
+            "src/GPBMetadata/Protos/CotarsGameProtoCard.php"
+        ]
+    }
+}
