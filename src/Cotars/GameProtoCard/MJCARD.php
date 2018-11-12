@@ -5,9 +5,9 @@
 namespace Cotars\GameProtoCard;
 
 /**
- * Protobuf type <code>Cotars.GameProtoCard.MJCARD</code>
+ * Protobuf type <code>Cotars.GameProtoCard.MJCard</code>
  */
-class MJCARD
+class MJCard
 {
     /**
      * Generated from protobuf enum <code>MJCARD_NIL = 0;</code>
